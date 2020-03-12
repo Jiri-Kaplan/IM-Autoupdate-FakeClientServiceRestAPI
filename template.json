@@ -1,0 +1,17 @@
+{
+    "DownloadFileChecksum": "cb1b2357639e58e6c64dcd24cb4a16f89b6af2ca32864915a1e3d432c6bc98e7",
+    "DownloadFileSize": "149430272",
+    "DownloadFileUrl": null,
+    "DownloadFileName": "ToadforOracle_GA_13.3.0.181_x86.msi",
+    "PublishDate": "0001-01-01T00:00:00",
+    "Id": "5504ccb9-5eb7-4de0-9f79-fd2134c0e847",
+    "ProductId": "d5341b55-f1e3-444d-8db7-105fee365c18",
+    "ProductName": "Toad for Oracle",
+    "ProductNotificationMessageUrl": "https://toadworld.com/products/toad-oracle?whatsnew",
+    "WhatsNewUrl": "https://toadworld.com/products/toad-oracle?whatsnew",
+    "ProductIconUrl": "https://toadworld.com/images/toad-oracle.png",
+    "Description": null,
+    "Version": "13.3.0",
+    "InstallCommand": "dotnet",
+    "Title": "Toad for Oracle 13.3.0.181"
+}

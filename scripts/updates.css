@@ -1,0 +1,9 @@
+.list-group-item.mouseover {
+  background: #fafafa;
+  cursor: pointer;
+}
+
+.list-group-item .remove-item.mouseover {
+  background: #aaf;
+  cursor: pointer;
+}
